@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balbirsingh08&label=Profile%20views&color=0e75b6&style=flat" alt="balbirsingh08" /> </p>
 
 - 🔭 I’m currently working on **Angular + FastAPI Projects**  
-- 🌱 I’m learning **Kubernetes & Terraform**  
-- 💬 Ask me about **Angular, FastAPI, Docker, AWS**  
+- 🌱 I’m learning  **AI**
+- 💬 Ask me about **Angular, FastAPI, Docker, AWS**, **Kubernetes , Terraform** 
 - 📫 How to reach me: **singh321balveer@gmail.com**  
 - ⚡ Fun fact: *I love FPS games 🎮 (CSGO fan!)*  
 
