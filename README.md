@@ -53,7 +53,7 @@
 ---
 
 ### 🏆 Achievements:
-- 🥇 Accenture Rising Star (Promoted QE → Angular Dev)  
+- 🥇 Accenture Rising Star ( Angular Dev)  
 - 🏅 HackerRank 5⭐ in DSA, Python & SQL  
 - ⚡ CodeChef Global Rank 452 / 20,000+ (OCT20B)  
 
